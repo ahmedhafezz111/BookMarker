@@ -1,0 +1,44 @@
+.bookMarker .siteName  i{
+    padding: 10px;
+    color: #164863;
+
+}
+
+.bookMarker  .siteUrl i{
+    padding: 10px;
+    color: #164863;
+}
+
+.title .row h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #164863, #427D9D, #DDF2FD);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 36px; 
+    font-weight: bold; 
+    padding:20px 0 10px 0 ;
+}
+    
+
+.title .row h5 i{
+    padding: 10px;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 10px 45px;
+    
+}
+.btn i{
+    padding: 5px;
+}
+
+body{
+    background-color: #DDF2FD;
+    background-size: cover;
+    background-repeat: repeat;
+}
